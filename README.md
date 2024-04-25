@@ -10,7 +10,7 @@
   <p align="center">   
     <img 
       alt="Last commit on GitHub" 
-      src="https://img.shields.io/github/last-commit/Alxdelira/api-jfro?color=6A57D5"
+      src="https://img.shields.io/github/last-commit/Alxdelira/micro-service-order?color=6A57D5"
     >   
     <img 
       alt="Made by Alexandre Nogueira" 
@@ -18,11 +18,11 @@
     >
     <img 
       alt="Project top programing language" 
-      src="https://img.shields.io/github/languages/top/Alxdelira/api-jfro?color=6A57D5"
+      src="https://img.shields.io/github/languages/top/Alxdelira/micro-service-order?color=6A57D5"
     >
     <img 
       alt="GitHub license" 
-      src="https://img.shields.io/github/license/Alxdelira/api-jfro?color=6A57D5"
+      src="https://img.shields.io/github/license/Alxdelira/micro-service-order?color=6A57D5"
     >
   </p> 
 
@@ -37,12 +37,12 @@
     <br />
     <br />
     <a 
-      href="https://github.com/Alxdelira/api-jfro/issues">
+      href="https://github.com/Alxdelira/micro-service-order/issues">
       Report Bug
     </a>
     ·
     <a 
-      href="https://github.com/Alxdelira/api-jfro/issues/new">
+      href="https://github.com/Alxdelira/micro-service-order/issues/new">
       Request Feature
     </a>
   </p>
@@ -81,12 +81,12 @@ This project was developed with the following technologies:
 
 You'll need [Node.js](https://nodejs.org) installed on your computer in order to build this app.
 
-<!-- ```bash
-git clone https://github.com/Alxdelira/api-jfro.git
-$ cd api-jfro
+```bash
+git clone https://github.com/Alxdelira/micro-service-order.git
+$ cd micro-service-order
 $ npm install
 $ npm run dist
-``` -->
+```
 
 
 ## Usage
