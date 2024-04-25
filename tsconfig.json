@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+		"target": "ES6", // Padrões de compilação para ES6 (ECMAScript 2015)
+		"module": "CommonJS", // Padrões de módulos para CommonJS (Node.js) 
+		"outDir": "./dist", // Diretório de saída onde os arquivos compilados serão armazenados
+		"strict": true, // Habilita todas as opções de verificação de tipo 
+		"esModuleInterop": true, // Habilita interoperabilidade de módulos ES6 e CommonJS 
+	}
+}
